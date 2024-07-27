@@ -113,4 +113,4 @@ Este código JavaScript define várias funções que interagem com elementos HTM
 ## Resumo
 
 Este código fornece uma série de funcionalidades para gerar e exibir diferentes tipos de tabelas matemáticas e cálculos, incluindo tabuada de soma, subtração, multiplicação e divisão, além de operações relacionadas à sequência de Fibonacci e soma de números ímpares.
-## A resposta para o restante das questões está dentro dos codigos
+## A resposta para o restante das questões está dentro da pasta
