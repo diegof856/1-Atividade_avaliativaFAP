@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <!-- Define o conjunto de caracteres para a página como UTF-8 -->
+    <meta charset="UTF-8">
+    <!-- Configura a viewport para garantir que o layout seja responsivo em diferentes tamanhos de tela -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Define o título da página que será exibido na aba do navegador -->
+    <title>Avaliacao</title>
+    <!-- Inclui o arquivo JavaScript externo 'resposta.js' que contém as funções a serem utilizadas -->
+    <script src="js/resposta.js"></script>
+</head>
+<body>
+    <!-- Botão que chama a função 'funcaoAvaliacao()' quando clicado -->
+    <button onclick="funcaoAvaliacao()">clique</button> 
+    
+    <!-- Título para a seção de opções de tabuada -->
+    <h2>Escolha sua opção para a tabuada</h2>
+    
+    <!-- Botão para gerar a tabuada de soma; chama a função 'gerarTabuadaSoma()' quando clicado -->
+    <button onclick="gerarTabuadaSoma()">+</button>
+    
+    <!-- Botão para gerar a tabuada de subtração; chama a função 'gerarTabuadaSubtrair()' quando clicado -->
+    <button onclick="gerarTabuadaSubtrair()">-</button>
+    
+    <!-- Botão para gerar a tabuada de multiplicação; chama a função 'gerarTabuadaMulti()' quando clicado -->
+    <button onclick="gerarTabuadaMulti()">*</button>
+    
+    <!-- Botão para gerar a tabuada de divisão; chama a função 'gerarTabuadaDiv()' quando clicado -->
+    <button onclick="gerarTabuadaDiv()">/</button>
+    
+    <!-- Botão para limpar a tabuada gerada; chama a função 'limparTabuada()' quando clicado -->
+    <button onclick="limparTabuada()">Limpar</button>
+
+    <!-- Parágrafo onde o resultado da tabuada ou outras respostas serão exibidos -->
+    <p id="resposta1"></p>
+  
+    <!-- Parágrafo onde o resultado da tabuada ou outras respostas serão exibidos -->
+    <p id="resposta3"></p>
+    
+    <!-- Parágrafo onde o resultado da tabuada ou outras respostas serão exibidos -->
+    <p id="resposta4"></p>
+    
+    <!-- Parágrafo onde o resultado da tabuada ou outras respostas serão exibidos -->
+    <p id="resposta2"></p>
+</body>
+</html>
