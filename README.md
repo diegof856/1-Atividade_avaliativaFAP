@@ -2,6 +2,7 @@
 # Explicação do Código HTML e JavaScript
 
 Este documento HTML e o código JavaScript associados criam uma página interativa para calcular e exibir diferentes tipos de tabelas matemáticas e realizar alguns cálculos. Abaixo está a explicação de cada parte do código.
+<p><a href="https://diegof856.github.io/" target="_blank">Clique aqui e veja o codigo funcionando!!</a></p>
 
 ## Código HTML
 
